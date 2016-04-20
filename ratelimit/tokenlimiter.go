@@ -9,7 +9,7 @@ import (
 
 	"github.com/mailgun/timetools"
 	"github.com/mailgun/ttlmap"
-	"github.com/vulcand/oxy/utils"
+	"github.com/goguardian/oxy/utils"
 )
 
 const DefaultCapacity = 65536

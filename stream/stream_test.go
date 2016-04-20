@@ -11,9 +11,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vulcand/oxy/forward"
-	"github.com/vulcand/oxy/testutils"
-	"github.com/vulcand/oxy/utils"
+	"github.com/goguardian/oxy/forward"
+	"github.com/goguardian/oxy/testutils"
+	"github.com/goguardian/oxy/utils"
 
 	. "gopkg.in/check.v1"
 )
