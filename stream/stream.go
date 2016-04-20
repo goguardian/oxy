@@ -42,7 +42,7 @@ import (
 	"net/http"
 
 	"github.com/mailgun/multibuf"
-	"github.com/vulcand/oxy/utils"
+	"github.com/goguardian/oxy/utils"
 )
 
 const (

@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/vulcand/oxy/testutils"
-	"github.com/vulcand/oxy/utils"
+	"github.com/goguardian/oxy/testutils"
+	"github.com/goguardian/oxy/utils"
 
 	. "gopkg.in/check.v1"
 )

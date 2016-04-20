@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/vulcand/oxy/forward"
-	"github.com/vulcand/oxy/testutils"
-	"github.com/vulcand/oxy/utils"
+	"github.com/goguardian/oxy/forward"
+	"github.com/goguardian/oxy/testutils"
+	"github.com/goguardian/oxy/utils"
 	"github.com/mailgun/timetools"
 
 	. "gopkg.in/check.v1"
